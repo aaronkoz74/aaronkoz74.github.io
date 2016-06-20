@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2016-06-20
+img: blocjams.png
+alt: image-alt
+project-date: April 2016
+client: Bloc
+category: Web Development
+description: Bloc Jams is a digital music player like Spotify&reg that was built during the foundational portion of the Bloc(www.bloc.io) front end web development course.  The initial application was constructed using HTML, CSS, Javascript and jQuery. For my first front end project I refactored the application using AngularJS and Grunt.
+
+---
