@@ -16,13 +16,15 @@ p.small {
     font-size: 16px;
 }
 
-a,
+#redLink {
+    color: white;
+},
 a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    text-decoration: none;
 }
 
 h1,
