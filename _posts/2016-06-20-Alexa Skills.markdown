@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2016-06-11
-img: echo.png
+img: Echo.png
 alt: image-alt
 project-date: June 2016
 client: Bloc
